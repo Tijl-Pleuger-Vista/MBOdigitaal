@@ -1,5 +1,5 @@
 <h1 class="m-2 text-2xl leading-none text-gray-900">
-Generieke onderdelen BS
+Professionaliteit
 </h1>
 <table class="table-auto w-full border-collapse border border-gray-400 mb-8">
     <thead>
