@@ -11,8 +11,8 @@
     <div class="mt-6 mb-16 w-11/12 p-6 space-y-8 sm:p-8 bg-white mx-auto">
 
         <h2 class="text-2xl font-bold dark:text-white">Keuzedelen</h2>
-        <p class="my-4 font-bold text-gray-700">Hieronder staat het overzicht van die te maken hebben met het
-            ontwikkelen van de keuzedelen binnen het systeem van mbogodigital.nl</p>
+        <!-- <p class="my-4 font-bold text-gray-700">Hieronder staat het overzicht van die te maken hebben met het
+            ontwikkelen van de keuzedelen binnen het systeem van mbogodigital.nl</p> -->
 
         <div class="w-full">
             <div class="flex border-b border-gray-300">
@@ -39,13 +39,13 @@
                     onclick="openTab(event, 'tab7')">Generieke onderdelen LB</button>
                 <button
                     class="w-1/2 py-4 text-center font-medium text-gray-700 bg-gray-100 rounded-tr-lg focus:outline-none active:bg-gray-200"
-                    onclick="openTab(event, 'tab8')">Gedrag</button>
-                <button
+                    onclick="openTab(event, 'tab8')">G.P.P</button>
+                <!-- <button
                     class="w-1/2 py-4 text-center font-medium text-gray-700 bg-gray-100 rounded-tr-lg focus:outline-none active:bg-gray-200"
                     onclick="openTab(event, 'tab9')">Professionaliteit</button>
                 <button
                     class="w-1/2 py-4 text-center font-medium text-gray-700 bg-gray-100 rounded-tr-lg focus:outline-none active:bg-gray-200"
-                    onclick="openTab(event, 'tab10')">Persoonlijke ontwikkeling</button>
+                    onclick="openTab(event, 'tab10')">Persoonlijke ontwikkeling</button> -->
             </div>
             <div id="tab1" class="tabcontent p-4">
                 <?php require 'challenges-tab1.inc.php' ?>

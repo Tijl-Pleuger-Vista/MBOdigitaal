@@ -11,8 +11,8 @@
     <div class="mt-6 mb-16 w-11/12 p-6 space-y-8 sm:p-8 bg-white mx-auto">
 
         <h2 class="text-2xl font-bold dark:text-white">Keuzedelen</h2>
-        <p class="my-4 font-bold text-gray-700">Hieronder staat het overzicht van die te maken hebben met het
-            ontwikkelen van de keuzedelen binnen het systeem van mbogodigital.nl</p>
+        <!-- <p class="my-4 font-bold text-gray-700">Hieronder staat het overzicht van die te maken hebben met het
+            ontwikkelen van de keuzedelen binnen het systeem van mbogodigital.nl</p> -->
 
         <div class="w-full">
             <div class="flex border-b border-gray-300">
